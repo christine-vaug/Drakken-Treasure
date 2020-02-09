@@ -11,7 +11,7 @@ Reach the end of the level for a hint on unlocking the boss.
 ## Credits:
 
 # Art:
-Player Dragon - https://assetstore.unity.com/packages/3d/characters/small-red-dragon-52959
+Player Dragon - https://assetstore.unity.com/packages/3d/characters/small-red-dragon-52959 </br>
 Boss Dragon - https://assetstore.unity.com/packages/3d/characters/creatures/dragon-the-terror-bringer-and-dragon-boar-77121
 Enemy Bugs - https://assetstore.unity.com/packages/3d/characters/creatures/meshtint-free-polygonal-metalon-151383
 Environment - https://assetstore.unity.com/packages/2d/textures-materials/forest-road-background-146496
