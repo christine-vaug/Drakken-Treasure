@@ -1,5 +1,6 @@
-# Drakken-Treasure
-Simple game made in Unity for Android (version 4.1 and up)
+# Drakken Treasure
+Simple game made in Unity for Android (version 4.1 and up) </br>
+Created for CPE 481 - Embedded Games Development class at University of Reno, Nevada - Fall 2019
 
 # Controls:
 Tap the screen to jump. </br>
